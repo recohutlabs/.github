@@ -17,7 +17,7 @@
   </g>
 
   <text x="430" y="183" fill="#F7FAFC" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="104" font-weight="720" letter-spacing="-4">Recohut</text>
-  <rect x="820" y="104" width="194" height="94" rx="18" fill="#8BAA00"/>
-  <text x="847" y="174" fill="#0B1220" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="62" font-weight="780" letter-spacing="3">LABS</text>
+  <rect x="820" y="110" width="184" height="82" rx="13" fill="#8BAA00"/>
+  <text x="845" y="170" fill="#0B1220" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="56" font-weight="760" letter-spacing="3">LABS</text>
   <text x="434" y="244" fill="#9AA8BC" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="28" font-weight="500" letter-spacing="2.5">OPEN EXPERIMENTS. RUNNABLE IDEAS.</text>
 </svg>
