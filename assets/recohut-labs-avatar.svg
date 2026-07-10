@@ -1,10 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
   <title id="title">Recohut Labs avatar</title>
-  <desc id="desc">The green Recohut symbol centered on a dark square.</desc>
+  <desc id="desc">The original green Recohut R with a small molecular node accent on a dark square.</desc>
   <rect width="512" height="512" fill="#0B1220"/>
-  <g transform="translate(134 86) scale(.85)" fill="#8DB63F">
-    <path d="M192 0 288 56v124l-96 56V112L96 56Z"/>
-    <path d="M96 56 192 112v124l-96 56-96-56V112Z"/>
-    <path d="m192 236 96 56v108L96 292Z"/>
+  <image href="recohut-parent-mark.png" xlink:href="recohut-parent-mark.png" x="130" y="91" width="210" height="292"/>
+  <g fill="none" stroke="#9AA8BC" stroke-width="9" stroke-linecap="round" stroke-linejoin="round">
+    <path d="m320 136 37-29 39 29"/>
+    <path d="m357 107 0-37"/>
+  </g>
+  <g fill="#F7FAFC" stroke="#0B1220" stroke-width="7">
+    <circle cx="320" cy="136" r="15"/>
+    <circle cx="357" cy="107" r="17" fill="#8BAA00"/>
+    <circle cx="396" cy="136" r="15"/>
+    <circle cx="357" cy="68" r="13"/>
   </g>
 </svg>

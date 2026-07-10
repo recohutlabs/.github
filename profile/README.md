@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="../assets/recohut-labs-lockup.svg" alt="Recohut Labs — Open experiments. Runnable ideas." width="760">
+  <img src="../assets/recohut-labs-lockup.png" alt="Recohut Labs — Open experiments. Runnable ideas." width="760">
 </div>
 
 ## Build what is next

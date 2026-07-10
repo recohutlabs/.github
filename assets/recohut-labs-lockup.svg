@@ -1,13 +1,23 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
   <title id="title">Recohut Labs</title>
-  <desc id="desc">Recohut Labs wordmark on a dark field with the green Recohut symbol.</desc>
+  <desc id="desc">Recohut Labs wordmark with the original green Recohut R, a compact Labs badge, and a molecular node accent.</desc>
   <rect width="1200" height="360" rx="36" fill="#0B1220"/>
-  <g transform="translate(76 58) scale(.61)" fill="#8DB63F">
-    <path d="M192 0 288 56v124l-96 56V112L96 56Z"/>
-    <path d="M96 56 192 112v124l-96 56-96-56V112Z"/>
-    <path d="m192 236 96 56v108L96 292Z"/>
+
+  <!-- Preserve the established Recohut mark exactly; the node motif is the Labs signature. -->
+  <image href="recohut-parent-mark.png" xlink:href="recohut-parent-mark.png" x="186" y="46" width="170" height="236"/>
+  <g fill="none" stroke="#9AA8BC" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="m337 79 27-20 28 20"/>
+    <path d="m364 59 0-25"/>
   </g>
-  <text x="300" y="186" fill="#F7FAFC" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="104" font-weight="720" letter-spacing="-4">Recohut</text>
-  <text x="750" y="186" fill="#8DB63F" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="104" font-weight="520" letter-spacing="-3">Labs</text>
-  <text x="304" y="244" fill="#9AA8BC" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="28" font-weight="500" letter-spacing="2.5">OPEN EXPERIMENTS. RUNNABLE IDEAS.</text>
+  <g fill="#F7FAFC" stroke="#0B1220" stroke-width="4">
+    <circle cx="337" cy="79" r="9"/>
+    <circle cx="364" cy="59" r="10" fill="#8BAA00"/>
+    <circle cx="392" cy="79" r="9"/>
+    <circle cx="364" cy="32" r="8"/>
+  </g>
+
+  <text x="430" y="183" fill="#F7FAFC" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="104" font-weight="720" letter-spacing="-4">Recohut</text>
+  <rect x="820" y="104" width="194" height="94" rx="18" fill="#8BAA00"/>
+  <text x="847" y="174" fill="#0B1220" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="62" font-weight="780" letter-spacing="3">LABS</text>
+  <text x="434" y="244" fill="#9AA8BC" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="28" font-weight="500" letter-spacing="2.5">OPEN EXPERIMENTS. RUNNABLE IDEAS.</text>
 </svg>

@@ -24,12 +24,12 @@ The brand promise is **open experiments, runnable ideas**. The audience is engin
 
 | Token | Value | Use |
 | --- | --- | --- |
-| Recohut green | `#8DB63F` | Mark, links, active accents |
+| Recohut green | `#8BAA00` | Mark, Labs badge, active accents |
 | Lab black | `#0B1220` | Primary brand surface |
 | Paper | `#F7FAFC` | Text on dark surfaces |
 | Steel | `#9AA8BC` | Supporting text and metadata |
 
-Use the Recohut mark with generous clear space. Do not recolor it per project, add effects, or create project-specific versions of the parent mark. Repository artwork may introduce its own visual motif while retaining the organization lockup.
+Use the original Recohut R unchanged, with generous clear space. The compact four-node molecule is the Labs signature and may sit beside—but never replace or distort—the parent mark. In horizontal lockups, place the `LABS` badge directly beside `Recohut`; it should read as one name, not a separate sponsor. Repository artwork may introduce its own visual motif while retaining the organization lockup.
 
 ## Project maturity
 
