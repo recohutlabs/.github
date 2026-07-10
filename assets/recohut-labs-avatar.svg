@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Recohut Labs avatar</title>
+  <desc id="desc">The green Recohut symbol centered on a dark square.</desc>
+  <rect width="512" height="512" fill="#0B1220"/>
+  <g transform="translate(134 86) scale(.85)" fill="#8DB63F">
+    <path d="M192 0 288 56v124l-96 56V112L96 56Z"/>
+    <path d="M96 56 192 112v124l-96 56-96-56V112Z"/>
+    <path d="m192 236 96 56v108L96 292Z"/>
+  </g>
+</svg>
